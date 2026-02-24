@@ -1,0 +1,23 @@
+{
+  "name": "sivin_34id",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sentinelsivin/sivin_34id.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sentinelsivin/sivin_34id/issues"
+  },
+  "homepage": "https://github.com/sentinelsivin/sivin_34id#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
